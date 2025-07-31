@@ -125,7 +125,7 @@ footer {
   text-align: center;
 }
 
-footer > div {
+footer>div {
   flex: 1 1 280px;
   padding: 0 12px;
   box-sizing: border-box;
@@ -133,9 +133,9 @@ footer > div {
 
 .redes2 {
   display: flex;
-  justify-content: center; 
-  align-items: center;    
-  height: 18.519vh;          
+  justify-content: center;
+  align-items: center;
+  height: 18.519vh;
 }
 
 .redes2 a {
@@ -156,28 +156,31 @@ footer > div {
 }
 
 .info-desarrollador {
-  color: #FFFFFF;         
-  margin-top: 20px;            
-  text-align: center;          
-  font-style: italic;       
-  max-width: 400px;  
+  color: #FFFFFF;
+  margin-top: 20px;
+  text-align: center;
+  font-style: italic;
+  max-width: 400px;
   margin-left: auto;
-  margin-right: auto;       
+  margin-right: auto;
 }
+
 .info-desarrollador a {
-  color: #FFD966;          
-  text-decoration: underline; 
+  color: #FFD966;
+  text-decoration: underline;
   transition: color 0.3s ease;
 }
+
 .info-desarrollador a:hover {
-  color: #FFB347;              
+  color: #FFB347;
 }
 
 a:hover {
   color: rgb(186, 23, 186);
 }
 
-#video, #mapven{
+#video,
+#mapven {
   width: 100%;
   height: 40vh;
 }
@@ -188,8 +191,8 @@ a:hover {
 }
 
 #copyright {
-width: 100px;
-height: 50px;
-border-radius: 15px;
-background-color: #EDE7D9;
+  width: 100px;
+  height: 50px;
+  border-radius: 15px;
+  background-color: #EDE7D9;
 }
