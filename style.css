@@ -186,3 +186,10 @@ a:hover {
   width: auto;
   height: 200px;
 }
+
+#copyright {
+width: 100px;
+height: 50px;
+border-radius: 15px;
+background-color: #EDE7D9;
+}
